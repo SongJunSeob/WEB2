@@ -1,18 +1,20 @@
 
+::-webkit-scrollbar { display: none; }
 
 .img{   
         margin: 0; padding: 0; font-size:0;
-        height:22000px; 
+        height:23000px; 
 		background-image: url(../img/WebPortfolio1.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
 		background-size: 100% 100%;
 		text-align:center;
 		position:relative;
+    
 }
 .img2{   
         margin: 0; padding: 0; font-size:0;
-        height:8600px; 
+        height:9600px; 
 		background-image: url(../img/WebPortfolio2.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
