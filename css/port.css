@@ -2,7 +2,7 @@
 
 .img{   
         margin: 0; padding: 0; font-size:0;
-        height:25000px; 
+        height:23000px; 
 		background-image: url(../img/WebPortfolio1.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
@@ -12,7 +12,7 @@
 }
 .img2{   
         margin: 0; padding: 0; font-size:0;
-        height:10000px; 
+        height:8000px; 
 		background-image: url(../img/WebPortfolio2.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
