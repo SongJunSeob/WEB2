@@ -1,9 +1,8 @@
 
-::-webkit-scrollbar { display: none; }
 
 .img{   
         margin: 0; padding: 0; font-size:0;
-        height:23000px; 
+        height:29275; width:100%;
 		background-image: url(../img/WebPortfolio1.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
@@ -14,7 +13,7 @@
 }
 .img2{   
         margin: 0; padding: 0; font-size:0;
-        height:9600px; 
+        height:12675px; width:100%;
 		background-image: url(../img/WebPortfolio2.jpg);
 		background-position: center;
 		background-repeat:no-repeat;
